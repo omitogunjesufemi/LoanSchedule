@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: navy;
+  color: whitesmoke;
+}
+
+.container {
+  margin: 50px;
+  display: flex;
+  justify-content: center;
+  background-color: whitesmoke;
+  width: 50%;
+  height: 50%; 
+  padding: 10px;
+}
+
+input,
+label,
+button {
+  border: 0;
+  display: block;
+  margin-bottom: 5px;
+  padding: 10px;
+  color: black;
+  width: 90%;
+}
+
+.btnn {
+    padding: 5px;
+    width: 100%;
+    height: 20%;
+    background-color: tomato;
+    color: white;
+}
